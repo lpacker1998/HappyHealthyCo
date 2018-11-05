@@ -1,4 +1,4 @@
 body {
-background-image: url("background.jpg");
-background-color: red;
+  background-color: red;
+  background-image: url("background.jpg");
 }
