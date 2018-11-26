@@ -10,3 +10,11 @@ body{
   font-family:verdana;
 
 }
+
+li {
+  text-decoration-color: blue;
+}
+h2 {
+
+  color: purple;
+}
